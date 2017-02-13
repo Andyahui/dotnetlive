@@ -16,6 +16,15 @@ Welcome To Join DNL Team!
 
 ***
 
+## .NET Core版本与环境
+我们得项目会紧跟.NET Core官方的版本, 最新的环境可以在下面地址找到 [.NET Core发布公告](https://github.com/dotnet/core/tree/master/release-notes)
+
+* DNL项目当前使用版本
+我们目前采用.NET Core RC4版本进行项目开发[下载页面](https://github.com/dotnet/core/blob/master/release-notes/rc4-download.md)
+
+* 安装下得问题
+通常我们只需要安装.NET Core的SDK就好，SDK是包含了Runtime的.
+
 ## 目录分类
 
 * [架构](/architecture/)
