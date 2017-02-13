@@ -1,29 +1,14 @@
-# [关于DOTNETLIVE(DNL)](../)
+# DHL项目结构相关
+[回到主页](/)
 
-本项目围绕微软最新的.NET Core 跨平台技术，设定的一个虚拟大项目(包括单点登陆系统(SSO), 综合博客(类似博客园), 论坛, 问答社区，考试系统(大家可以出题，大家可以答题),及其他你认为有意义的项目, 我们全力支持,秉承一切交给社区)，通过完成项目的功能来达到.NET Core落地实践的目的.
-
-这个虚拟项目坚持开放的原则，包容的姿态，为大家建立以代码为基础的交流渠道, 建立统一的业务沟通背景, 而不仅仅停留在讲理论的层面; 
-
-TALK IS CHEAP, SHOW ME YOUR CODE!
+## 概要
+DHL项目的定位是一个大型项目，其构成有非常多的子项目, 每个子项目遵循DHL项目的技术规范.
 
 
-***
+## 每个子项目结构定义
+每个子项目通常会分为XXXWeb, XXXApi， 
+ 
+ * Web项目MVC技术，主要负责页面呈渲染与现, 其次负责从浏览器端接受数据，交给API处理，并再次呈现结果给浏览器端
+ * Api项目使用WebApi技术，向Web层与其他端(暂未设计到得Spa端，手机端)提供具有一定安全的API
 
-QQ群: 191870871 (.NET Core落地实践)
-
-
-***
-
-相关站点地址:
-
-GITHUB地址:([hhttps://github.com/dotnetlive](https://github.com/dotnetlive))
-
-DNL主站:([http://dotnet.live](http://dotnet.live))
-
-DNL登陆站:([http://account.dotnet.live](http://account.dotnet.live)) --负责登陆认证
-
-DNL论坛站:([http://forums.dotnet.live](http://forums.dotnet.live)) --开辟各种板块，话题讨论
-
-DNL博客站:([http://blog.dotnet.live](http://blog.dotnet.live)) --小小的笔记或者某次深思的记录
-
-DNL考试站:([http://exam.dotnet.live](http://exam.dotnet.live)) --享受问答的乐趣
+ 

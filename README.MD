@@ -25,6 +25,12 @@ Welcome To Join DNL Team!
 * 安装下得问题
 通常我们只需要安装.NET Core的SDK就好，SDK是包含了Runtime的.
 
+## DHL项目开发环境要求说明
+
+* 必须是VS2017 RC3以上版本(重要的事说三遍)
+* VS2017 RC3以下及VS2015等版本是否可以? 请参考上一条.
+* .net core tools 版本必须是1.0.0-rc4-004757版本往上, 有人问怎么查看这个版本号，在命令行底下输入 dotnet --version
+
 ## 目录分类
 
 * [架构](/architecture/)

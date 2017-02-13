@@ -1,29 +1,31 @@
 # [关于DOTNETLIVE(DNL)](../)
 
-本项目围绕微软最新的.NET Core 跨平台技术，设定的一个虚拟大项目(包括单点登陆系统(SSO), 综合博客(类似博客园), 论坛, 问答社区，考试系统(大家可以出题，大家可以答题),及其他你认为有意义的项目, 我们全力支持,秉承一切交给社区)，通过完成项目的功能来达到.NET Core落地实践的目的.
+## 共享项目(纯技术类，辅助其他项目)
 
-这个虚拟项目坚持开放的原则，包容的姿态，为大家建立以代码为基础的交流渠道, 建立统一的业务沟通背景, 而不仅仅停留在讲理论的层面; 
+* dotnetlive项目
+我们网站的主站，其宣传与其他站得导流
 
-TALK IS CHEAP, SHOW ME YOUR CODE!
+* dotnetlive.account项目
+负责登陆与浏览器端Cookie生成
 
+* dotnetlive.admin项目
+综合后台管理项目
 
-***
+## 业务项目
 
-QQ群: 191870871 (.NET Core落地实践)
+* dotnetlive.blog
+博客项目, 类似于博客园的多人博客项目
 
+* dotnetlive.forums
+论坛项目
 
-***
+* dotnetlive.exam
+创建问题，组合考题，在线答题， 便于各种在线评测
 
-相关站点地址:
+* dotnetlive.career
+一个简历管理站点，以及工作意向管理，业内各公司之间内推
 
-GITHUB地址:([hhttps://github.com/dotnetlive](https://github.com/dotnetlive))
+* dotnetlive.ecommerce
+DNL电商项目
 
-DNL主站:([http://dotnet.live](http://dotnet.live))
-
-DNL登陆站:([http://account.dotnet.live](http://account.dotnet.live)) --负责登陆认证
-
-DNL论坛站:([http://forums.dotnet.live](http://forums.dotnet.live)) --开辟各种板块，话题讨论
-
-DNL博客站:([http://blog.dotnet.live](http://blog.dotnet.live)) --小小的笔记或者某次深思的记录
-
-DNL考试站:([http://exam.dotnet.live](http://exam.dotnet.live)) --享受问答的乐趣
+* dotnetlive.
