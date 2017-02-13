@@ -13,6 +13,12 @@
 * dotnetlive.admin项目
 综合后台管理项目
 
+* dotnetlive.authcenter
+账户权限集中授权中心
+
+* dotnetlive.logcenter
+DNL项目集中日志查看中心
+
 ## 业务项目
 
 * dotnetlive.blog
