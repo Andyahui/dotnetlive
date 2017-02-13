@@ -1,5 +1,7 @@
 # [关于DOTNETLIVE(DNL)](../)
 
+架构文档待补，先说明业务架构
+
 ## 共享项目(纯技术类，辅助其他项目)
 
 * dotnetlive项目
@@ -28,4 +30,5 @@
 * dotnetlive.ecommerce
 DNL电商项目
 
-* dotnetlive.
+* dotnetlive.cms
+DNL CMS项目
