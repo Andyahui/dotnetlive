@@ -36,13 +36,13 @@ Welcome To Join DNL Team!
 * [架构](/architecture/)
 * [规范](/specification/)
 * [开发](/development/)
-* [部署](/deployment/)
+* [部署(https://github.com/dotnetlive/dotnetlive/tree/master/deployment)](https://github.com/dotnetlive/dotnetlive/tree/master/deployment)
 
 ## 相关站点地址:
 
 GITHUB地址:([hhttps://github.com/dotnetlive](https://github.com/dotnetlive))
 
-DNL主站:([http://dotnet.live](http://dotnet.live))
+DNL主站:([https://dotnet.live](https://dotnet.live))
 
 DNL登陆站:([http://account.dotnet.live](http://account.dotnet.live)) --负责登陆认证
 
@@ -51,4 +51,9 @@ DNL论坛站:([http://forums.dotnet.live](http://forums.dotnet.live)) --开辟�
 DNL博客站:([http://blog.dotnet.live](http://blog.dotnet.live)) --小小的笔记或者某次深思的记录
 
 DNL考试站:([http://exam.dotnet.live](http://exam.dotnet.live)) --享受问答的乐趣
+
+DNL搜索站:([http://search.dotnet.live](http://exam.dotnet.live)) --享受问答的乐趣
+
+## DNL站点目前部署情况
+目前DNL所有站点部署在一台Linux Debian服务器上
 
