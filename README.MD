@@ -22,7 +22,7 @@ Welcome To Join DNL Team!
 * DNL项目当前使用版本
 我们目前采用.NET Core RC4版本进行项目开发[下载页面](https://github.com/dotnet/core/blob/master/release-notes/rc4-download.md)
 
-* 安装下得问题
+* 安装问题
 通常我们只需要安装.NET Core的SDK就好，SDK是包含了Runtime的.
 
 ## DHL项目开发环境要求说明
@@ -57,3 +57,5 @@ DNL搜索站:([http://search.dotnet.live](http://exam.dotnet.live)) --享受问�
 ## DNL站点目前部署情况
 目前DNL所有站点部署在一台Linux Debian服务器上
 
+## QQ群讨论注意事项
+1. 除了常规的沟通协作，所有有关项目的业务问题，技术问题请转移到Github Issue里面
